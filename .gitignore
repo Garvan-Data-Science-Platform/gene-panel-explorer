@@ -52,3 +52,8 @@ rsconnect/
 Data/STRING/*
 Data/GO/*
 Data/HPO/*
+
+# Mac filesystem
+.DS_Store
+Data/*.DS_Store
+Data/*/.DS_Store

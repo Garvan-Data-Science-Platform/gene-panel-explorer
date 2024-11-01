@@ -35,7 +35,16 @@ download.file(GO_BASIC_OBO_URL,temp)
 unlink(temp)
 
 ## HPO ----
-#"Data/HPO/HPO_genes.tsv"
+# documentation: https://obophenotype.github.io/human-phenotype-ontology/annotations/genes_to_disease/
+
+# not yet working automatically,
+# have to manually download these reference files from the HPO website and
+# place them in Data/HPO
+# from here: https://hpo.jax.org/data/annotations
+# "Genes to Disease" --> "Data/HPO/genes_to_disease.txt"
+# "Phenotype to Genes" --> "Data/HPO/phenotype_to_genes.txt"
+
+
 
 ## OMIM ----
 # Data/OMIM/mim2geneDedup.tsv"
