@@ -1,0 +1,62 @@
+panel_name,date,protected,type
+Alzheimer's Disease (DisGeNET),2023-12-18,TRUE,Curated
+Autism Spectrum Disorders (DisGeNET),2023-12-18,TRUE,Curated
+Dystonia (DisGeNET),2023-12-18,TRUE,Curated
+Parkinson Disease (DisGeNET),2023-12-18,TRUE,Curated
+Multiple Sclerosis (DisGeNET),2023-12-18,TRUE,Curated
+Gross motor development delay (DisGeNET),2023-12-18,TRUE,Curated
+alzheimer_disease (HPO),2023-12-18,TRUE,Commercial
+arm_dystonia (HPO),2023-12-18,TRUE,Commercial
+autism_spectrum_disorder (HPO),2023-12-18,TRUE,Commercial
+axial_dystonia (HPO),2023-12-18,TRUE,Commercial
+craniofacial_dystonia (HPO),2023-12-18,TRUE,Commercial
+dystonia (HPO),2023-12-18,TRUE,Commercial
+focal_dystonia (HPO),2023-12-18,TRUE,Commercial
+generalized_dystonia (HPO),2023-12-18,TRUE,Commercial
+hemidystonia (HPO),2023-12-18,TRUE,Commercial
+isometric_tremor (HPO),2023-12-18,TRUE,Commercial
+laryngeal_dystonia (HPO),2023-12-18,TRUE,Commercial
+leg_dystonia (HPO),2023-12-18,TRUE,Commercial
+limb_dystonia (HPO),2023-12-18,TRUE,Commercial
+lingual_dystonia (HPO),2023-12-18,TRUE,Commercial
+oromandibular_dystonia (HPO),2023-12-18,TRUE,Commercial
+paroxysmal_dystonia (HPO),2023-12-18,TRUE,Commercial
+torsion_dystonia (HPO),2023-12-18,TRUE,Commercial
+torticollis (HPO),2023-12-18,TRUE,Commercial
+Dystonia (Avi/Kishore),2023-12-18,TRUE,Experimental
+Dystonia (Invitae),2023-12-18,TRUE,Commercial
+Dystonia (Blueprint Genetics),2023-12-18,TRUE,Commercial
+Dystonia (PanelApp Australia - Superpanel),2023-12-18,TRUE,Curated
+Dystonia (Genomics England - Adult-onset),2023-12-18,TRUE,Curated
+Alzheimer's Disease (Invitae - Early-onset),2023-12-18,TRUE,Commercial
+Autism Spectrum Disorders (Blueprint Genetics),2023-12-18,TRUE,Commercial
+Autism Spectrum Disorders (PanelApp Australia),2023-12-18,TRUE,Curated
+Autism Spectrum Disorders (Genomics England),2023-12-18,TRUE,Curated
+Huntington's Disease (old .txt),2023-12-18,TRUE,Experimental
+Motor Development Disorders (old .txt),2023-12-18,TRUE,Experimental
+Multiple Sclerosis (old .txt),2023-12-18,TRUE,Experimental
+Parkinson Disease (Blueprint Genetics),2023-12-18,TRUE,Commercial
+Parkinson Disease (Invitae),2023-12-18,TRUE,Commercial
+Parkinson Disease (PanelApp Australia - Early-onset),2023-12-18,TRUE,Curated
+Parkinson Disease (Genomics England - PD + Complex Parkinsonism),2023-12-18,TRUE,Curated
+Parkinson Disease (old .txt),2023-12-18,TRUE,Experimental
+Dystonia (ClinVar Pathogenic),2023-12-18,TRUE,Curated
+Parkinson Disease (HPO - Parkinsonism),2024-02-07,FALSE,Curated
+Alzheimer's Disease (HPO),2024-02-08,TRUE,Curated
+Autism Spectrum Disorders (HPO),2024-02-08,FALSE,Curated
+Dystonia (HPO - arm dystonia),2024-02-08,FALSE,Curated
+Dystonia (HPO - axial dystonia),2024-02-08,FALSE,Curated
+Dystonia (HPO - craniofacial dystonia),2024-02-08,FALSE,Curated
+Dystonia (HPO - dystonia),2024-02-08,FALSE,Curated
+Dystonia (HPO - focal dystonia),2024-02-08,FALSE,Curated
+Dystonia (HPO - generalized dystonia),2024-02-08,FALSE,Curated
+Dystonia (HPO - hemidystonia),2024-02-08,FALSE,Curated
+Dystonia (HPO - isometric tremor),2024-02-08,FALSE,Curated
+Dystonia (HPO - laryngeal dystonia),2024-02-08,FALSE,Curated
+Dystonia (HPO - leg dystonia),2024-02-08,FALSE,Curated
+Dystonia (HPO - limb dystonia),2024-02-08,FALSE,Curated
+Dystonia (HPO - lingual dystonia),2024-02-08,FALSE,Curated
+Dystonia (HPO - oromandibular dystonia),2024-02-08,FALSE,Curated
+Dystonia (HPO - paroxysmal dystonia),2024-02-08,FALSE,Curated
+Dystonia (HPO - torsion dystonia),2024-02-08,FALSE,Curated
+Dystonia (HPO - torticollis),2024-02-08,FALSE,Curated

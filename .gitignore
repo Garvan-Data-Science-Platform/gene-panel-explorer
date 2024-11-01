@@ -49,9 +49,10 @@ po/*~
 rsconnect/
 
 # Bulky reference files
-Data/STRING/*
-Data/GO/*
 Data/HPO/*
+Data/GTEx/*
+Data/GO/*
+Data/STRING/*
 
 # Mac filesystem
 .DS_Store

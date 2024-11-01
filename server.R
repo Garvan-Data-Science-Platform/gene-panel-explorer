@@ -64,8 +64,8 @@ print(paste("Available GTEx datasets: ", paste(data$datasetId, collapse=", "), "
 
 
 # Load initial startup data
-startup_genes <- read_csv(file = "Data/startup.csv", show_col_types = FALSE)
-startup_panels <- read_csv(file = "Data/startup_panels.csv", show_col_types = FALSE)
+startup_genes <- read_csv(file = "Data/Startup/startup.csv", show_col_types = FALSE)
+startup_panels <- read_csv(file = "Data/Startup/startup_panels.csv", show_col_types = FALSE)
 
 
 # Load HPO genes - i think this is redundant since integrating HPO gene panels into "Curated Panels"
@@ -74,14 +74,36 @@ hpo <- read_tsv(file = "Data/HPO/genes_to_disease.txt", show_col_types = FALSE)
 
 # OMIM gene identifiers (a few genes have multiple omim numbers, which are given comma-separated) )
 # All genes which have an OMIM number are in mim2geneDedup$Gene
-mim2geneDedup <- read_delim("Data/mim2geneDedup.tsv",
-                            delim = "\t", escape_double = FALSE,
-                            col_types = cols(OMIM = col_character(),
-                                             Type= col_character(),
-                                             Entrez = col_integer(),
-                                             Gene = col_character(),
-                                             Ensembl= col_character()),
-                            trim_ws = TRUE)
+
+mim2gene <- read_delim("Data/OMIM/mim2gene.txt",
+                       col_names = c("MIM","Type","Entrez",	"Gene",	"Ensembl"),
+                       delim = "\t", escape_double = FALSE,
+                       comment = "#", trim_ws = TRUE)
+
+# remove rows with NA gene symbol
+mim2gene <- mim2gene[!(is.na(mim2gene$Gene)),]
+table(duplicated(mim2gene$Gene))
+
+# reduce to just "gene" Type
+mim2gene <- mim2gene[mim2gene$Type=="gene",]
+table(duplicated(mim2gene$Gene))
+
+dup_genes <- mim2gene$Gene[which(duplicated(mim2gene$Gene))]
+dup_genes_table <- mim2gene[which(mim2gene$Gene %in% dup_genes),]
+
+# need to resolve some cases where a gene symbol is not unique to a MIM id
+# the next line removes any duplicated gene rows after the numerically lowest MIM id
+mim2geneDedup <- mim2gene[!duplicated(mim2gene$Gene),]
+table(duplicated(mim2geneDedup$Gene))
+
+# mim2geneDedup <- read_delim("Data/mim2geneDedup.tsv",
+#                             delim = "\t", escape_double = FALSE,
+#                             col_types = cols(OMIM = col_character(),
+#                                              Type= col_character(),
+#                                              Entrez = col_integer(),
+#                                              Gene = col_character(),
+#                                              Ensembl= col_character()),
+#                             trim_ws = TRUE)
 
 
 # Human Phenotype Ontology data
@@ -99,7 +121,7 @@ hpo_p2g_dystonia <- hpo_p2g[hpo_p2g$Phenotype %in% dystonia_hpo_phenotypes,]
 
 # Load interaction data from STRING-DB, pre-filtered on human proteins ("9606")
 # Index file defines the protein-id with protein names
-stringIndex <- read.csv("Data/9606.protein.info.v11.5.txt", header = TRUE,
+stringIndex <- read.csv("Data/STRING/9606.protein.info.v12.0.txt", header = TRUE,
                         encoding= "utf-8", quote = "", sep = "\t")
 colnames(stringIndex) <- c("string_protein_id", "preferred_name",
                            "protein_size","annotation")
@@ -269,7 +291,7 @@ stringDBMatches <- function(inputProtein, cutoff=400) {
 
 
 # load GTEx tissue expression data
-gtex <- read.csv(file="Data/GTExMedianTPM_fixed.csv")
+gtex <- read.csv(file="Data/GTEx/GTExMedianTPM_fixed.csv")
 dim(gtex)
 names(gtex)
 
