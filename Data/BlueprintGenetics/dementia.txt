@@ -1,0 +1,59 @@
+Gene	Associated phenotypes	Inheritance	ClinVar	HGMD
+ABCA7	Alzheimer disease	AD	1	139
+APOE	Sea-blue histiocyte disease, Dysbetalipoproteinemia, familial (Hyperlipoproteinemia), Lipoprotein glomerulopathy	AD/AR	31	55
+APP	Alzheimer disease, Cerebral amyloid angiopathy	AD/AR	18	100
+CHMP2B	Amyotrophic lateral sclerosis, CHMP2B-related, Frontotemporal dementia	AD	6	21
+CSF1R	Leukoencephalopathy, diffuse hereditary, with spheroids	AD	56	83
+FUS	Amyotrophic lateral sclerosis, Essential tremor	AD/AR	22	111
+GRN	Frontotemporal lobar degeneration with TDP43 inclusions, GRN-related, Neuronal ceroid lipofuscinosis	AD/AR	43	214
+MAPT	Pick disease, Frontotemporal dementia, Parkinson-dementia syndrome, Supranuclear palsy, progressive	AD/AR	26	104
+MT-ATP6	Neuropathy, ataxia, and retinitis pigmentosa, Leber hereditary optic neuropathy, Ataxia and polyneuropathy, adult-onset, Cardiomyopathy, infantile hypertrophic, Leigh syndrome, Striatonigral degeneration, infantile, mitochondrial	Mitochondrial	19	
+MT-ATP8	Cardiomyopathy, apical hypertrophic, and neuropathy, Cardiomyopathy, infantile hypertrophic	Mitochondrial	4	
+MT-CO1	Myoglobinuria, recurrent, Leber hereditary optic neuropathy, Sideroblastic anemia, Cytochrome C oxidase deficiency, Deafness, mitochondrial	Mitochondrial	17	
+MT-CO2	Cytochrome c oxidase deficiency	Mitochondrial	8	
+MT-CO3	Cytochrome c oxidase deficiency, Leber hereditary optic neuropathy	Mitochondrial	9	
+MT-CYB		Mitochondrial	69	
+MT-ND1	Mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes, Leber hereditary optic neuropathy, Leber optic atrophy and dystonia	Mitochondrial	21	
+MT-ND2	Leber hereditary optic neuropathy, Mitochondrial complex I deficiency	Mitochondrial	6	
+MT-ND3	Leber optic atrophy and dystonia, Mitochondrial complex I deficiency	Mitochondrial	7	
+MT-ND4	Leber hereditary optic neuropathy, Leber optic atrophy and dystonia, Mitochondrial complex I deficiency	Mitochondrial	11	
+MT-ND4L	Leber hereditary optic neuropathy	Mitochondrial	2	
+MT-ND5	Myoclonic epilepsy with ragged red fibers, Mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes, Leber hereditary optic neuropathy, Mitochondrial complex I deficiency	Mitochondrial	19	
+MT-ND6	Mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes, Oncocytoma, Leber hereditary optic neuropathy, Leber optic atrophy and dystonia, Mitochondrial complex I deficiency	Mitochondrial	16	
+MT-RNR1	Deafness, mitochondrial	Mitochondrial	3	
+MT-RNR2	Chloramphenicol toxicity/resistance	Mitochondrial	2	
+MT-TA		Mitochondrial	4	
+MT-TC	Mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes	Mitochondrial	3	
+MT-TD		Mitochondrial	1	
+MT-TE	Diabetes-deafness syndrome, Mitochondrial myopathy, infantile, transient, Mitochondrial myopathy with diabetes	Mitochondrial	5	
+MT-TF	Myoclonic epilepsy with ragged red fibers, Nephropathy, tubulointerstitial, Encephalopathy, mitochondrial, Epilepsy, mitochondrial, Myopathy, mitochondrial, Mitochondrial encephalomyopathy with lactic acidosis and stroke-like episodes	Mitochondrial	7	
+MT-TG		Mitochondrial	3	
+MT-TH		Mitochondrial	4	
+MT-TI		Mitochondrial	7	
+MT-TK	Myoclonic epilepsy with ragged red fibers, Leigh syndrome	Mitochondrial	5	
+MT-TL1	Cytochrome c oxidase deficiency, Myoclonic epilepsy with ragged red fibers, Mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes, Diabetes-deafness syndrome, Cyclic vomiting syndrome, SIDS, susceptibility to	Mitochondrial	14	
+MT-TL2	Mitochondrial multisystemic disorder, Progressive external ophthalmoplegia, Mitochondrial Myopathy, Mitochondrial encephalomyopathy with lactic acidosis and stroke-like episodes	Mitochondrial	5	
+MT-TM	Leigh syndrome, Mitochondrial multisystemic disorder	Mitochondrial	1	
+MT-TN	Progressive external ophthalmoplegia, Mitochondrial multisystemic disorder	Mitochondrial	3	
+MT-TP		Mitochondrial	2	
+MT-TQ	Mitochondrial multisystemic disorder	Mitochondrial	2	
+MT-TR	Encephalopathy, mitochondrial	Mitochondrial	2	
+MT-TS1	Myoclonic epilepsy with ragged red fibers, Mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes	Mitochondrial	10	
+MT-TS2	Mitochondrial multisystemic disorder	Mitochondrial	2	
+MT-TT		Mitochondrial	5	
+MT-TV	Hypertrophic cardiomyopathy (HCM), Leigh syndrome, Mitochondrial multisystemic disorder, Mitochondrial encephalomyopathy with lactic acidosis and stroke-like episodes	Mitochondrial	3	
+MT-TW	Leigh syndrome, Myopathy, mitochondrial	Mitochondrial	8	
+MT-TY	Mitochondrial multisystemic disorder	Mitochondrial	4	
+PRNP	Dementia, Lewy body, Creutzfeldt-Jakob disease, Huntington disease-like, Gerstmann-Straussler disease, Spongiform encephalopathy with neuropsychiatric features, Insomnia, fatal familial	AD/AR	26	104
+PSEN1	Dilated cardiomyopathy (DCM), Acne inversa, familial, 3, Dementia, frontotemporal, Pick disease, Alzheimer disease	AD	57	306
+PSEN2	Peripartum/pregnancy-associated cardiomyopathy, Dilated cardiomyopathy (DCM), Alzheimer disease, 4	AD	9	60
+RNF216	Cerebellar ataxia and hypogonadotropic hypogonadism (Gordon Holmes syndrome)	AR	10	14
+SIGMAR1	Amyotrophic lateral sclerosis, Spinal muscular atrophy, distal, Frontotemporal lobar degeneration-motor neuron disease	AR	6	14
+SNCA	Parkinson disease, Dementia with Lewy bodies	AD	7	35
+SORL1	Early-onset Alzheimer disease	AD	3	134
+TARDBP	Amyotrophic lateral sclerosis	AD	20	69
+TREM2	Nasu-Hakola disease, Early-onset dementia without bone cysts, Polycystic lipomembranous osteodysplasia with sclerosing leukoencephalopathy	AR	14	48
+TUBA4A	Amyotrophic lateral sclerosis 22	AD	6	13
+UBE3A	Angelman syndrome	AD	176	202
+UBQLN2	Amyotrophic lateral sclerosis	XL	5	31
+VCP	Amyotrophic lateral sclerosis, Inclusion body myopathy with early-onset Paget disease, Charcot-Marie-Tooth disease	AD	17	61

@@ -1,0 +1,76 @@
+Gene	Associated phenotypes	Inheritance	ClinVar	HGMD
+ADNP	Helsmoortel-van der Aa syndrome (Mental retardation, autosomal dominant 28)	AD	44	66
+BCL11A	Dias-Logan syndrome	AD	20	29
+C12ORF4	Developmental delay and seizures with or without movement abnormalities (DEDSM)	AR	1	5
+CACNA1C	Brugada syndrome, Timothy syndrome, Neurodevelopmental disorder	AD	19	68
+CC2D1A	Mental retardation, autosomal recessive 3	AR	3	7
+CNOT3	Intellectual developmental disorder	AD	1	8
+CNTN6	Developmental delay and seizures with or without movement abnormalities (DEDSM)	AD	2	41
+COL4A3BP	Mental retardation, autosomal dominant 34	AD	6	7
+CSNK2A1		AD	14	20
+CTNND2	Developmental delay and seizures with or without movement abnormalities (DEDSM)	AD	7	35
+DHCR7	Smith-Lemli-Opitz syndrome	AR	88	217
+EHMT1	Kleefstra syndrome	AD	86	89
+EN2	Autism	AD		2
+FBXO11	Intellectual developmental disorder	AD	8	9
+FOXP1	Mental retardation with language impairment and autistic features, Congenital heart malformations	AD	48	76
+GAMT	Guanidinoacetate methyltransferase deficiency	AR	18	58
+KMT2E	Neurodevelopmental disorder	AD		4
+KMT5B	Developmental delay and seizures with or without movement abnormalities (DEDSM), Autism spectrum disorder, overgrowth syndrome with intellectual disability	AD	9	14
+MBOAT7	Mental retardation, autosomal recessive 57	AR	5	5
+MECP2	Angelman-like syndrome, Autism, Rett syndrome, Encephalopathy, Intellectual developmental disorder	XL	506	1039
+MT-ATP6	Neuropathy, ataxia, and retinitis pigmentosa, Leber hereditary optic neuropathy, Ataxia and polyneuropathy, adult-onset, Cardiomyopathy, infantile hypertrophic, Leigh syndrome, Striatonigral degeneration, infantile, mitochondrial	Mitochondrial	19	
+MT-ATP8	Cardiomyopathy, apical hypertrophic, and neuropathy, Cardiomyopathy, infantile hypertrophic	Mitochondrial	4	
+MT-CO1	Myoglobinuria, recurrent, Leber hereditary optic neuropathy, Sideroblastic anemia, Cytochrome C oxidase deficiency, Deafness, mitochondrial	Mitochondrial	17	
+MT-CO2	Cytochrome c oxidase deficiency	Mitochondrial	8	
+MT-CO3	Cytochrome c oxidase deficiency, Leber hereditary optic neuropathy	Mitochondrial	9	
+MT-CYB		Mitochondrial	69	
+MT-ND1	Mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes, Leber hereditary optic neuropathy, Leber optic atrophy and dystonia	Mitochondrial	21	
+MT-ND2	Leber hereditary optic neuropathy, Mitochondrial complex I deficiency	Mitochondrial	6	
+MT-ND3	Leber optic atrophy and dystonia, Mitochondrial complex I deficiency	Mitochondrial	7	
+MT-ND4	Leber hereditary optic neuropathy, Leber optic atrophy and dystonia, Mitochondrial complex I deficiency	Mitochondrial	11	
+MT-ND4L	Leber hereditary optic neuropathy	Mitochondrial	2	
+MT-ND5	Myoclonic epilepsy with ragged red fibers, Mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes, Leber hereditary optic neuropathy, Mitochondrial complex I deficiency	Mitochondrial	19	
+MT-ND6	Mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes, Oncocytoma, Leber hereditary optic neuropathy, Leber optic atrophy and dystonia, Mitochondrial complex I deficiency	Mitochondrial	16	
+MT-RNR1	Deafness, mitochondrial	Mitochondrial	3	
+MT-RNR2	Chloramphenicol toxicity/resistance	Mitochondrial	2	
+MT-TA		Mitochondrial	4	
+MT-TC	Mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes	Mitochondrial	3	
+MT-TD		Mitochondrial	1	
+MT-TE	Diabetes-deafness syndrome, Mitochondrial myopathy, infantile, transient, Mitochondrial myopathy with diabetes	Mitochondrial	5	
+MT-TF	Myoclonic epilepsy with ragged red fibers, Nephropathy, tubulointerstitial, Encephalopathy, mitochondrial, Epilepsy, mitochondrial, Myopathy, mitochondrial, Mitochondrial encephalomyopathy with lactic acidosis and stroke-like episodes	Mitochondrial	7	
+MT-TG		Mitochondrial	3	
+MT-TH		Mitochondrial	4	
+MT-TI		Mitochondrial	7	
+MT-TK	Myoclonic epilepsy with ragged red fibers, Leigh syndrome	Mitochondrial	5	
+MT-TL1	Cytochrome c oxidase deficiency, Myoclonic epilepsy with ragged red fibers, Mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes, Diabetes-deafness syndrome, Cyclic vomiting syndrome, SIDS, susceptibility to	Mitochondrial	14	
+MT-TL2	Mitochondrial multisystemic disorder, Progressive external ophthalmoplegia, Mitochondrial Myopathy, Mitochondrial encephalomyopathy with lactic acidosis and stroke-like episodes	Mitochondrial	5	
+MT-TM	Leigh syndrome, Mitochondrial multisystemic disorder	Mitochondrial	1	
+MT-TN	Progressive external ophthalmoplegia, Mitochondrial multisystemic disorder	Mitochondrial	3	
+MT-TP		Mitochondrial	2	
+MT-TQ	Mitochondrial multisystemic disorder	Mitochondrial	2	
+MT-TR	Encephalopathy, mitochondrial	Mitochondrial	2	
+MT-TS1	Myoclonic epilepsy with ragged red fibers, Mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes	Mitochondrial	10	
+MT-TS2	Mitochondrial multisystemic disorder	Mitochondrial	2	
+MT-TT		Mitochondrial	5	
+MT-TV	Hypertrophic cardiomyopathy (HCM), Leigh syndrome, Mitochondrial multisystemic disorder, Mitochondrial encephalomyopathy with lactic acidosis and stroke-like episodes	Mitochondrial	3	
+MT-TW	Leigh syndrome, Myopathy, mitochondrial	Mitochondrial	8	
+MT-TY	Mitochondrial multisystemic disorder	Mitochondrial	4	
+NBEA	Epilepsy	AD	3	13
+NFIB	Macrocephaly	AD	17	2
+NLGN3	Autism, Asperger syndrome	XL	2	10
+NLGN4X	Autism, Asperger syndrome, Intellectual developmental disorder	XL	7	35
+NSD1	Sotos syndrome, Weaver syndrome, Beckwith-Wiedemann syndrome	AD	329	517
+POGZ	Mental retardation, autosomal dominant 37 (White-Sutton syndrome)	AD	46	52
+PTCHD1	Autism susceptibility, X-linked 4	XL	9	47
+PTEN	Bannayan-Riley-Ruvalcaba syndrome, Lhermitte-Duclos syndrome, Cowden syndrome	AD	435	638
+RPL10	Autism	XL	4	5
+SHANK3	Phelan-McDermid syndrome, Schizophrenia 15	AD	66	191
+TBR1	Intellectual developmental disorder	AD	16	18
+TCF20	Developmental delay and seizures with or without movement abnormalities (DEDSM)	AD	7	16
+TRIP12	Intellectual developmental disorder	AD	14	32
+TSC1	Lymphangioleiomyomatosis, Tuberous sclerosis	AD	177	372
+TSC2	Lymphangioleiomyomatosis, Tuberous sclerosis	AD	396	1195
+VAMP2		AD		
+WASF1	Intellectual disability and seizures	AD	3	3
+ZSWIM6	Acromelic frontonasal dysostosis	AD	4	2

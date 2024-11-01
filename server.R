@@ -69,12 +69,12 @@ startup_panels <- read_csv(file = "Data/startup_panels.csv", show_col_types = FA
 
 
 # Load HPO genes - i think this is redundant since integrating HPO gene panels into "Curated Panels"
-hpo <- read_tsv(file = "Data/new/HPO/HPO_genes.tsv", show_col_types = FALSE)
+hpo <- read_tsv(file = "Data/HPO/HPO_genes.tsv", show_col_types = FALSE)
 
 
 # OMIM gene identifiers (a few genes have multiple omim numbers, which are given comma-separated) )
 # All genes which have an OMIM number are in mim2geneDedup$Gene
-mim2geneDedup <- read_delim("Data/mim2geneDedup.tsv",
+mim2geneDedup <- read_delim("Data/OMIM/mim2geneDedup.tsv",
                             delim = "\t", escape_double = FALSE,
                             col_types = cols(OMIM = col_character(),
                                              Type= col_character(),
@@ -103,7 +103,7 @@ stringIndex <- read.csv("Data/9606.protein.info.v11.5.txt", header = TRUE,
                         encoding= "utf-8", quote = "", sep = "\t")
 colnames(stringIndex) <- c("string_protein_id", "preferred_name",
                            "protein_size","annotation")
-stringLinks <- read.csv("Data/new/STRING/9606.protein.physical.links.detailed.v12.0.txt",
+stringLinks <- read.csv("Data/STRING/9606.protein.physical.links.detailed.v12.0.txt",
                         header = TRUE,
                         encoding= "utf-8", quote = "", sep = " ")
 #print(paste(dim(stringIndex)[1],"proteins loaded.")) # 19,566 proteins
@@ -455,9 +455,9 @@ textblock2genes <- function(textblock, useOMIM) {
 col_names = c("DB", "DB Object ID", "DB Object Symbol", "Qualifier", "GO ID", "DB:Reference (|DB:Reference)", "Evidence Code",
               "With (or) From", "Aspect", "DB Object Name", "DB Object Synonym (|Synonym)", "DB Object Type", "Taxon (|taxon)",
               "Date", "Assigned By", "Annotation Extension", "Gene Product Form ID")
-GO_annotations <- read_tsv(file = "Data/new/GO/goa_human.gaf", show_col_types = FALSE, skip = 41, col_names = col_names)
+GO_annotations <- read_tsv(file = "Data/GO/goa_human.gaf", show_col_types = FALSE, skip = 41, col_names = col_names)
 
-GO_terms <- as.data.frame(get_ontology(file = "Data/new/GO/go-basic.obo"))
+GO_terms <- as.data.frame(get_ontology(file = "Data/GO/go-basic.obo"))
 rownames(GO_terms) <- NULL
 
 
@@ -2329,7 +2329,7 @@ function(input, output, session) {
 # VALIDATION FUNCTIONALITY
 ################################################################################
 
-  clinvar <- read_tsv(file="Data/new/ClinVar/gene_condition_source_id.txt", show_col_types = FALSE)
+  clinvar <- read_tsv(file="Data/ClinVar/gene_condition_source_id.txt", show_col_types = FALSE)
 
   output$clinvarInfo <- renderDataTable({
 
@@ -2353,7 +2353,7 @@ function(input, output, session) {
     clinvar
   })
 
-  variants <- read_tsv(file="Data/new/ClinVar/variant_summary.txt", show_col_types = FALSE)
+  variants <- read_tsv(file="Data/ClinVar/variant_summary.txt", show_col_types = FALSE)
 
   output$variantTable <- renderDataTable({
 

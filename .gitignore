@@ -47,3 +47,8 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Bulky reference files
+Data/STRING/*
+Data/GO/*
+Data/HPO/*

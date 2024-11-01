@@ -1,0 +1,83 @@
+Gene	Associated phenotypes	Inheritance	ClinVar	HGMD
+ATP13A2	Parkinson disease (Kufor-Rakeb syndrome)	AR	21	40
+ATP1A3	Alternating hemiplegia of childhood, Dystonia 12	AD	79	112
+ATP7B	Wilson disease	AR	219	897
+C19ORF12	Spastic Paraplegia, Neurodegeneration with brain iron accumulation	AR	15	37
+CHCHD10	Myopathy, isolated mitochondrial, Frontotemporal dementia and/or amyotrophic lateral sclerosis 2, Spinal muscular atrophy, Jokela type	AD	4	26
+CHCHD2	Parkinson disease 22, autosomal dominant	AD	4	12
+CP	Aceruloplasminemia, Hypoceruloplasminemia	AR	62	57
+CSF1R	Leukoencephalopathy, diffuse hereditary, with spheroids	AD	56	83
+DCTN1	Perry syndrome, Neuropathy, distal hereditary motor	AD	10	52
+DNAJC12	Hyperphenylalaninemia, mild, non-BH4-deficient, Dystonia, Other hyperphenylalaninemias	AR	3	8
+DNAJC5	Kufs disease,, Ceroid lipofuscinosis, neuronal 4, Parry	AD	2	2
+DNAJC6	Juvenile Parkinsonism	AR	5	14
+FBXO7	Parkinson disease	AR	5	15
+FTL	Hyperferritinemia-cataract syndrome, L-ferritin deficiency, Neurodegeneration with brain iron accumulation	AD/AR	21	63
+GBA	Gaucher disease	AR	84	488
+GCH1	Dopa-Responsive Dystonia Hyperphenylalaninemia, BH4-deficient, GTP Cyclohydrolase 1-Deficient Dopa-Responsive Dystonia	AD/AR	48	240
+GRN	Frontotemporal lobar degeneration with TDP43 inclusions, GRN-related, Neuronal ceroid lipofuscinosis	AD/AR	43	214
+LRRK2	Dementia, Lewy body, Parkinson disease	AD	14	123
+MAPT	Pick disease, Frontotemporal dementia, Parkinson-dementia syndrome, Supranuclear palsy, progressive	AD/AR	26	104
+MT-ATP6	Neuropathy, ataxia, and retinitis pigmentosa, Leber hereditary optic neuropathy, Ataxia and polyneuropathy, adult-onset, Cardiomyopathy, infantile hypertrophic, Leigh syndrome, Striatonigral degeneration, infantile, mitochondrial	Mitochondrial	19	
+MT-ATP8	Cardiomyopathy, apical hypertrophic, and neuropathy, Cardiomyopathy, infantile hypertrophic	Mitochondrial	4	
+MT-CO1	Myoglobinuria, recurrent, Leber hereditary optic neuropathy, Sideroblastic anemia, Cytochrome C oxidase deficiency, Deafness, mitochondrial	Mitochondrial	17	
+MT-CO2	Cytochrome c oxidase deficiency	Mitochondrial	8	
+MT-CO3	Cytochrome c oxidase deficiency, Leber hereditary optic neuropathy	Mitochondrial	9	
+MT-CYB		Mitochondrial	69	
+MT-ND1	Mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes, Leber hereditary optic neuropathy, Leber optic atrophy and dystonia	Mitochondrial	21	
+MT-ND2	Leber hereditary optic neuropathy, Mitochondrial complex I deficiency	Mitochondrial	6	
+MT-ND3	Leber optic atrophy and dystonia, Mitochondrial complex I deficiency	Mitochondrial	7	
+MT-ND4	Leber hereditary optic neuropathy, Leber optic atrophy and dystonia, Mitochondrial complex I deficiency	Mitochondrial	11	
+MT-ND4L	Leber hereditary optic neuropathy	Mitochondrial	2	
+MT-ND5	Myoclonic epilepsy with ragged red fibers, Mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes, Leber hereditary optic neuropathy, Mitochondrial complex I deficiency	Mitochondrial	19	
+MT-ND6	Mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes, Oncocytoma, Leber hereditary optic neuropathy, Leber optic atrophy and dystonia, Mitochondrial complex I deficiency	Mitochondrial	16	
+MT-RNR1	Deafness, mitochondrial	Mitochondrial	3	
+MT-RNR2	Chloramphenicol toxicity/resistance	Mitochondrial	2	
+MT-TA		Mitochondrial	4	
+MT-TC	Mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes	Mitochondrial	3	
+MT-TD		Mitochondrial	1	
+MT-TE	Diabetes-deafness syndrome, Mitochondrial myopathy, infantile, transient, Mitochondrial myopathy with diabetes	Mitochondrial	5	
+MT-TF	Myoclonic epilepsy with ragged red fibers, Nephropathy, tubulointerstitial, Encephalopathy, mitochondrial, Epilepsy, mitochondrial, Myopathy, mitochondrial, Mitochondrial encephalomyopathy with lactic acidosis and stroke-like episodes	Mitochondrial	7	
+MT-TG		Mitochondrial	3	
+MT-TH		Mitochondrial	4	
+MT-TI		Mitochondrial	7	
+MT-TK	Myoclonic epilepsy with ragged red fibers, Leigh syndrome	Mitochondrial	5	
+MT-TL1	Cytochrome c oxidase deficiency, Myoclonic epilepsy with ragged red fibers, Mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes, Diabetes-deafness syndrome, Cyclic vomiting syndrome, SIDS, susceptibility to	Mitochondrial	14	
+MT-TL2	Mitochondrial multisystemic disorder, Progressive external ophthalmoplegia, Mitochondrial Myopathy, Mitochondrial encephalomyopathy with lactic acidosis and stroke-like episodes	Mitochondrial	5	
+MT-TM	Leigh syndrome, Mitochondrial multisystemic disorder	Mitochondrial	1	
+MT-TN	Progressive external ophthalmoplegia, Mitochondrial multisystemic disorder	Mitochondrial	3	
+MT-TP		Mitochondrial	2	
+MT-TQ	Mitochondrial multisystemic disorder	Mitochondrial	2	
+MT-TR	Encephalopathy, mitochondrial	Mitochondrial	2	
+MT-TS1	Myoclonic epilepsy with ragged red fibers, Mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes	Mitochondrial	10	
+MT-TS2	Mitochondrial multisystemic disorder	Mitochondrial	2	
+MT-TT		Mitochondrial	5	
+MT-TV	Hypertrophic cardiomyopathy (HCM), Leigh syndrome, Mitochondrial multisystemic disorder, Mitochondrial encephalomyopathy with lactic acidosis and stroke-like episodes	Mitochondrial	3	
+MT-TW	Leigh syndrome, Myopathy, mitochondrial	Mitochondrial	8	
+MT-TY	Mitochondrial multisystemic disorder	Mitochondrial	4	
+NUS1	Congenital disorder of glycosylation, type 1aa		4	5
+PANK2	Hypoprebetalipoproteinemia, acanthocytosis, retinitis pigmentosa, and pallidal degeneration, Neurodegeneration with brain iron accumulation	AR	37	181
+PARK2	Parkinson disease, juvenile	AR	45	432
+PARK7	Parkinson disease, early onset	AR	10	35
+PDE10A	Striatal degeneration, autosomal dominant 2, Infantile-onset dyskinesia	AD/AR	6	5
+PDE8B	Pigmented nodular adrenocortical disease, Striatal degeneration, autosomal dominant 1	AD	4	11
+PDGFB	Basal ganglia calcification, idiopathic, 5	AD	8	19
+PDGFRB	Basal ganglia calcification, idiopathic, 4, Kosaki overgrowth syndrome, Premature aging syndrome, Penttinen type	AD	14	19
+PINK1	Parkinson disease, early onset	AR	17	136
+PLA2G6	Parkinson disease, Neurodegeneration with brain iron accumulation	AR	78	175
+POLG	POLG-related ataxia neuropathy spectrum disorders, Sensory ataxia, dysarthria, and ophthalmoparesis, Alpers syndrome, Progressive external ophthalmoplegia with mitochondrial DNA deletions, Mitochondrial DNA depletion syndrome	AD/AR	89	290
+PRKRA	Dystonia 16	AR	2	9
+PSEN1	Dilated cardiomyopathy (DCM), Acne inversa, familial, 3, Dementia, frontotemporal, Pick disease, Alzheimer disease	AD	57	306
+RAB39B	Waisman parkinsonism-mental retardation syndrome, Intellectual developmental disorder	XL	6	17
+SLC20A2	Basal ganglia calcification, idiopathic, 1	AD	22	71
+SLC30A10	Hypermanganesemia with dystonia, polycythemia, and cirrhosis	AR	15	22
+SLC39A14	Hypermanganesemia with dystonia 2	AD/AR	9	9
+SLC6A3	Parkinsonism-dystonia, infantile	AR	8	31
+SNCA	Parkinson disease, Dementia with Lewy bodies	AD	7	35
+SPR	Dystonia, Dopa-responsive, due to sepiapterin reductase deficiency	AR	12	23
+SYNJ1	Epileptic encephalopathy, early infantile, 53, Parkinson disease 20, early-onset	AR	12	25
+TH	Segawa syndrome, autosomal recessive	AR	44	71
+VPS13A	Choreoacanthocytosis	AR	19	115
+VPS13C	Parkinson disease 23, autosomal recessive, early onset	AR	10	9
+VPS35	Parkinson disease	AD	2	22
+XPR1	Basal ganglia calcification, idiopathic, 6	AD	4	6

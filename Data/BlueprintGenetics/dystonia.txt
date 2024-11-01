@@ -1,0 +1,69 @@
+Gene	Associated phenotypes	Inheritance	ClinVar	HGMD
+ADCY5	Dyskinesia, familial, with facial myokymia	AD/AR	12	27
+ANO3	Dystonia 24	AD	7	21
+ATP1A3	Alternating hemiplegia of childhood, Dystonia 12	AD	79	112
+BCAP31	Deafness, dystonia, and cerebral hypomyelination	XL	9	9
+CACNA1B	Dystonia 23, Early infantile epileptic encephalopathy	AD/AR	28	3
+CACNA1G	Spinocerebellar ataxia 42		8	11
+DCAF17	Woodhouse-Sakati syndrome	AR	14	14
+DNAJC12	Hyperphenylalaninemia, mild, non-BH4-deficient, Dystonia, Other hyperphenylalaninemias	AR	3	8
+FA2H	Spastic paraplegia	AR	18	51
+FITM2	Dystonia, Deafness	AR		1
+GCH1	Dopa-Responsive Dystonia Hyperphenylalaninemia, BH4-deficient, GTP Cyclohydrolase 1-Deficient Dopa-Responsive Dystonia	AD/AR	48	240
+GNAL	Primary torsion dystonia	AD	10	34
+KCNMA1	Paroxysmal nonkinesigenic dyskinesia 3 with or without generalized epilepsy (PNKD3), Cerebellar atrophy, developmental delay, and seizures (CADEDS)	AD/AR	5	9
+KMT2B	Dystonia 28, childhood-onset	AD	21	45
+MECR	Dystonia, childhood-onset, with optic atrophy and basal ganglia abnormalities (DYTOABG)	AR	7	6
+MIPEP	Combined oxidative phosphorylation deficiency 31	AR	5	8
+MT-ATP6	Neuropathy, ataxia, and retinitis pigmentosa, Leber hereditary optic neuropathy, Ataxia and polyneuropathy, adult-onset, Cardiomyopathy, infantile hypertrophic, Leigh syndrome, Striatonigral degeneration, infantile, mitochondrial	Mitochondrial	19	
+MT-ATP8	Cardiomyopathy, apical hypertrophic, and neuropathy, Cardiomyopathy, infantile hypertrophic	Mitochondrial	4	
+MT-CO1	Myoglobinuria, recurrent, Leber hereditary optic neuropathy, Sideroblastic anemia, Cytochrome C oxidase deficiency, Deafness, mitochondrial	Mitochondrial	17	
+MT-CO2	Cytochrome c oxidase deficiency	Mitochondrial	8	
+MT-CO3	Cytochrome c oxidase deficiency, Leber hereditary optic neuropathy	Mitochondrial	9	
+MT-CYB		Mitochondrial	69	
+MT-ND1	Mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes, Leber hereditary optic neuropathy, Leber optic atrophy and dystonia	Mitochondrial	21	
+MT-ND2	Leber hereditary optic neuropathy, Mitochondrial complex I deficiency	Mitochondrial	6	
+MT-ND3	Leber optic atrophy and dystonia, Mitochondrial complex I deficiency	Mitochondrial	7	
+MT-ND4	Leber hereditary optic neuropathy, Leber optic atrophy and dystonia, Mitochondrial complex I deficiency	Mitochondrial	11	
+MT-ND4L	Leber hereditary optic neuropathy	Mitochondrial	2	
+MT-ND5	Myoclonic epilepsy with ragged red fibers, Mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes, Leber hereditary optic neuropathy, Mitochondrial complex I deficiency	Mitochondrial	19	
+MT-ND6	Mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes, Oncocytoma, Leber hereditary optic neuropathy, Leber optic atrophy and dystonia, Mitochondrial complex I deficiency	Mitochondrial	16	
+MT-RNR1	Deafness, mitochondrial	Mitochondrial	3	
+MT-RNR2	Chloramphenicol toxicity/resistance	Mitochondrial	2	
+MT-TA		Mitochondrial	4	
+MT-TC	Mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes	Mitochondrial	3	
+MT-TD		Mitochondrial	1	
+MT-TE	Diabetes-deafness syndrome, Mitochondrial myopathy, infantile, transient, Mitochondrial myopathy with diabetes	Mitochondrial	5	
+MT-TF	Myoclonic epilepsy with ragged red fibers, Nephropathy, tubulointerstitial, Encephalopathy, mitochondrial, Epilepsy, mitochondrial, Myopathy, mitochondrial, Mitochondrial encephalomyopathy with lactic acidosis and stroke-like episodes	Mitochondrial	7	
+MT-TG		Mitochondrial	3	
+MT-TH		Mitochondrial	4	
+MT-TI		Mitochondrial	7	
+MT-TK	Myoclonic epilepsy with ragged red fibers, Leigh syndrome	Mitochondrial	5	
+MT-TL1	Cytochrome c oxidase deficiency, Myoclonic epilepsy with ragged red fibers, Mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes, Diabetes-deafness syndrome, Cyclic vomiting syndrome, SIDS, susceptibility to	Mitochondrial	14	
+MT-TL2	Mitochondrial multisystemic disorder, Progressive external ophthalmoplegia, Mitochondrial Myopathy, Mitochondrial encephalomyopathy with lactic acidosis and stroke-like episodes	Mitochondrial	5	
+MT-TM	Leigh syndrome, Mitochondrial multisystemic disorder	Mitochondrial	1	
+MT-TN	Progressive external ophthalmoplegia, Mitochondrial multisystemic disorder	Mitochondrial	3	
+MT-TP		Mitochondrial	2	
+MT-TQ	Mitochondrial multisystemic disorder	Mitochondrial	2	
+MT-TR	Encephalopathy, mitochondrial	Mitochondrial	2	
+MT-TS1	Myoclonic epilepsy with ragged red fibers, Mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes	Mitochondrial	10	
+MT-TS2	Mitochondrial multisystemic disorder	Mitochondrial	2	
+MT-TT		Mitochondrial	5	
+MT-TV	Hypertrophic cardiomyopathy (HCM), Leigh syndrome, Mitochondrial multisystemic disorder, Mitochondrial encephalomyopathy with lactic acidosis and stroke-like episodes	Mitochondrial	3	
+MT-TW	Leigh syndrome, Myopathy, mitochondrial	Mitochondrial	8	
+MT-TY	Mitochondrial multisystemic disorder	Mitochondrial	4	
+PDE10A	Striatal degeneration, autosomal dominant 2, Infantile-onset dyskinesia	AD/AR	6	5
+PDGFB	Basal ganglia calcification, idiopathic, 5	AD	8	19
+PDGFRB	Basal ganglia calcification, idiopathic, 4, Kosaki overgrowth syndrome, Premature aging syndrome, Penttinen type	AD	14	19
+PNKD	Paroxysmal non-kinesigenic dyskinesia	AD	5	5
+PRKRA	Dystonia 16	AR	2	9
+PRRT2	Episodic kinesigenic dyskinesia, Seizures, benign familial infantile, 2, Convulsions, familial infantile, with paroxysmal choreoathetosis	AD	42	99
+SGCE	Dystonia 11, myoclonic	AD	40	119
+SLC2A1	Stomatin-deficient cryohydrocytosis with neurologic defects, Epilepsy, idiopathic generalized, GLUT1 deficiency syndrome	AD/AR	106	275
+SLC39A14	Hypermanganesemia with dystonia 2	AD/AR	9	9
+SPR	Dystonia, Dopa-responsive, due to sepiapterin reductase deficiency	AR	12	23
+TH	Segawa syndrome, autosomal recessive	AR	44	71
+THAP1	Dystonia 6, torsion	AD	19	98
+TOR1A	Dystonia 1, torsion	AD	2	16
+UBTF	Neurodegeneration, childhood-onset, with brain atrophy	AD	3	1
+VAC14	Striatonigral degeneration, childhood-onset		6	7
