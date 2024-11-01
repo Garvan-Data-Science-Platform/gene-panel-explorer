@@ -53,7 +53,7 @@ Dystonia studies (WGS and RNAseq), in collaboration with Dr Kishore Kumar and Dr
 Summer Scholarship Project (27/11/2023 - Feb/2024) - Kirby Smith. 
 Discussions with Clinicians : Kishore Kumar, Laura Rudaks, Dennis Yeow, Avi Fellner.
 
-## Installation
+## Installation (TODO: update instructions)
 
 Install R and RStudio (you can follow this guide https://rstudio-education.github.io/hopr/starting.html).
 
@@ -62,16 +62,7 @@ Open RStudio (interface pictured below).
 ![rstudio_ide](www/rstudio_ide.png)
 
 Enter the following commands in the console (highlighted section in the image above) to install all the packages required for the application to run. This will take some time.
-
-```
-packages <- c("shiny", "Cairo", "shinycssloaders", "shinybusy", "readr", "dplyr", "cluster",
-               "ggplot2", "ggrepel", "ggthemes", "ggradar", "gridExtra", "colorRamp2", "factoextra",
-               "VennDiagram", "scales", "ComplexHeatmap", "viridis", "bslib", "httr", "jsonlite",
-               "ggvenn", "UpSetR", "ggVennDiagram", "ontologyIndex", "tidyverse", "dendextend")
-install.packages("BiocManager")
-BiocManager::install(packages)
-remotes::install_github("ricardo-bion/ggradar")
-```
+Source the installation.R script to run through required package installations and to download reference files (STRING, GO, etc) to the Data folder.
 
 ## Running the Application
 
