@@ -53,7 +53,7 @@ Dystonia studies (WGS and RNAseq), in collaboration with Dr Kishore Kumar and Dr
 Summer Scholarship Project (27/11/2023 - Feb/2024) - Kirby Smith. 
 Discussions with Clinicians : Kishore Kumar, Laura Rudaks, Dennis Yeow, Avi Fellner.
 
-## Installation (TODO: update instructions)
+## Installation (Note: under development)
 
 Install R and RStudio (you can follow this guide https://rstudio-education.github.io/hopr/starting.html).
 
