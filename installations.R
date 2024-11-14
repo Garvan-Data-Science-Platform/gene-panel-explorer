@@ -3,7 +3,11 @@
 # This project uses renv to manage package versions.
 # Restore the packages from renv lockfile
 
+# check library status
+renv::status()
 
+# restore lockfile
+renv::restore()
 
 # if (!require("BiocManager", quietly = TRUE))
 #   install.packages("BiocManager")
@@ -18,7 +22,7 @@
 # remotes::install_github("ricardo-bion/ggradar")
 # #renv::snapshot()
 
-
+library(httr)
 
 
 # download public resources ----
@@ -57,12 +61,33 @@ unlink(temp)
 ## HPO ----
 # documentation: https://obophenotype.github.io/human-phenotype-ontology/annotations/genes_to_disease/
 
-# not yet working automatically,
-# have to manually download these reference files from the HPO website and
+# (if the links expire) Manual method: download these reference files from the HPO website and
 # place them in Data/HPO
 # from here: https://hpo.jax.org/data/annotations
 # "Genes to Disease" --> "Data/HPO/genes_to_disease.txt"
 # "Phenotype to Genes" --> "Data/HPO/phenotype_to_genes.txt"
+
+#url <- "https://hpo.jax.org/data/annotations#:~:text=GENES%20TO-,DISEASE,-License"
+url <- "https://objects.githubusercontent.com/github-production-release-asset-2e65be/41063438/4ba584a4-c65a-48a0-a504-fcde80a4eaf8?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241114%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241114T231730Z&X-Amz-Expires=300&X-Amz-Signature=86f310c6abb88d76f9856f1adb7ae6731974e285ab029f6abaa5653ec8fa8fe8&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dgenes_to_disease.txt&response-content-type=application%2Foctet-stream"
+destfile <- "Data/HPO/genes_to_disease_test.txt"
+response <- GET(url, write_disk(destfile, overwrite = TRUE))
+
+if (response$status_code == 200) {
+  message("File downloaded successfully.")
+} else {
+  message("Failed to download the file. Status code: ", response$status_code)
+}
+
+# https://hpo.jax.org/data/annotations#:~:text=download-,PHENOTYPE,-TO%20GENES
+url <- "https://objects.githubusercontent.com/github-production-release-asset-2e65be/41063438/ea6aa23c-c1da-4491-9c83-a9eb2e070791?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241114%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241114T232059Z&X-Amz-Expires=300&X-Amz-Signature=9d69120ee83bbe78024ae1c38c6873714dc0eb621c8c2627c00f33a2bce6eeb2&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dphenotype_to_genes.txt&response-content-type=application%2Foctet-stream"
+destfile <- "Data/HPO/phenotype_to_genes.txt"
+response <- GET(url, write_disk(destfile, overwrite = TRUE))
+
+if (response$status_code == 200) {
+  message("File downloaded successfully.")
+} else {
+  message("Failed to download the file. Status code: ", response$status_code)
+}
 
 
 
