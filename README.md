@@ -14,6 +14,8 @@ However, for some diseases the diagnostic yield remains low
 (e.g. dystonia studies presently report a 12% identification rate), 
 and there is an unmet need to expand the search panels to include additional highly suspected genes.
 
+![Gene Panel Drake](www/gene_panel_drake.jpeg)
+
 ## Main Project Aims
 1. Develop software for expanding panels of disease-associated genes using several strategies:
     - Aggregate existing curated gene panels (PanelApp, DisGeneNet, HPO)
